@@ -1,0 +1,20 @@
+Customer6,40TL,Dave
+Customer2,50TL,Stuart
+Customer7,300TL,Kevin
+Customer9,50TL,Stuart
+Customer5,100TL,Bob
+Customer0,300TL,Kevin
+Customer4,65TL,Stuart
+Customer1,231TL,Bob
+Customer3,30TL,Otto
+Customer8,231TL,Bob
+Customer11,65TL,Stuart
+Customer10,30TL,Otto
+Customer12,100TL,Bob
+Customer13,40TL,Dave
+All prepayments are completed
+Kevin: 600TL
+Bob: 662TL
+Stuart: 230TL
+Otto: 60TL
+Dave: 80TL
