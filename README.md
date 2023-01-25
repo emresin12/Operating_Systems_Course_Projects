@@ -1,6 +1,6 @@
 # Operating_Systems_Course_Projects
 
- All projects which is done in Cmpe322 course
+ All projects which are done in Cmpe322 course
  
  Project1 - Implemention of a custom shell
  
